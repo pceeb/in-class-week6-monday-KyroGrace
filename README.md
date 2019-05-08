@@ -75,7 +75,7 @@ characters. In this case is a good idea to define a new variable that takes the 
 provide by the user. Using what you learn about `sys.argv` in this class`.
 Write a variable that reads a delimiter (e.g ',') provided as the first input file.
 
-        Write your code here: I am once again assuming all we have to do for the question, was to go into the existinc code on the              assignment and change a few things. The new code via the template given is below:
+       Write your code here: I am once again assuming all we have to do for the question, was to go into the existinc code on the              assignment and change a few things. The new code via the template given is below:
         
         #!/usr/bin/env python
         Usage = """
